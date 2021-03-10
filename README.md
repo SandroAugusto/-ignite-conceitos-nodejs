@@ -1,6 +1,5 @@
 # Desafio 1 do Ignite Trilha NodeJS
 
-<img alt="Ignite" src="./assets/capa_ignite.png" />
 
 <h3 align="center">
   Desafio 01: Conceitos do Node.js
@@ -62,7 +61,6 @@ yarn dev
 ```
 
 <p align="center">
-  <img src="./assets/yarn_test.jpg">
 </p>
 
 ### Template da aplicação
@@ -76,7 +74,6 @@ O template pode ser encontrado na seguinte url: **[Acessar Template](https://git
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
 
 <p align="center">
-  <img  src="./assets/code_example.jpg">
 </p>
 
 ### Rotas da aplicação (Instruções)
@@ -188,7 +185,6 @@ Para completar todos os testes referentes à *todos* é necessário antes ter co
 
 **Observação:** O username deve ser enviado pelo header em uma propriedade chamada `username`:
 
-![./assets/insomnia.jpg](./assets/insomnia.jpg)
 
 - **Should be able to list all user's todos**
 
